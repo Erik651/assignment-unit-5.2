@@ -1,0 +1,25 @@
+.header {
+  background-color: darkgreen;
+  color: orange;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+  background-color: greenyellow;
+  padding: 1em;
+}
+
+.p {
+  color: orangered;
+}
+
+.h2 {
+  color: lightpink;
+}
+
+body {
+  background-image: url('record.png');
+  background-repeat: repeat;
+  margin: 10;
+}
